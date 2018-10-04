@@ -8,11 +8,8 @@
   display: none;
 }
 
-#wall #tag-4.parent{
-  display: none;
-}
 
-#wall #tag-3 .slick .wicked {
+#wall .slick {
   display: none;
 }
 
